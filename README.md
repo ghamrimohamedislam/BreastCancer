@@ -64,5 +64,7 @@ Based on 2 largest metastatic candidate regions (select them based on a threshol
   Solidity: Ratio of region area over the surrounding convex area
 
 
+<img width="556" alt="features" src="https://github.com/ghamrimohamedislam/BreastCancer/assets/124634951/a6c7a082-90fe-4df9-b4be-9dddc8b02b92">
+
 
 
