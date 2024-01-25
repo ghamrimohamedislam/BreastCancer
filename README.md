@@ -24,6 +24,7 @@ Patches:
 Ground Truth:
 
 <img width="538" alt="M3" src="https://github.com/ghamrimohamedislam/BreastCancer/assets/124634951/3dea0321-061e-47b3-a846-c0406bb96873">
+
 # 3 - Training Neural Network
 # 3.1 FCN
 Lambda, Normalize input (x / 255.0 - 0.5), outputs 256x256x3 
