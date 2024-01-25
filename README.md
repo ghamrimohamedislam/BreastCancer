@@ -18,8 +18,11 @@ Step 1 : Randomly extract patches (256 x 256) on the tissue region at the level 
 
 # Step 3 : Image Generator
 Patches:
+
 <img width="537" alt="M2" src="https://github.com/ghamrimohamedislam/BreastCancer/assets/124634951/255ec035-ca8b-4857-a3b1-f88e2d90a0de">
+
 Ground Truth:
+
 <img width="538" alt="M3" src="https://github.com/ghamrimohamedislam/BreastCancer/assets/124634951/3dea0321-061e-47b3-a846-c0406bb96873">
 # 3 - Training Neural Network
 # 3.1 FCN
